@@ -39,6 +39,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [DaisyUI](https://daisyui.com/) – Tailwind plugin that adds component classes like buttons, cards, etc.
 - [Flowbite](https://flowbite.com/) – Open-source component library with interactive elements.
 - [Meraki UI](https://merakiui.com/) – Beautiful UI components built with Tailwind CSS.
+- [Slate](https://github.com/electrikhq/slate) – shadcn-inspired Blade UI kit for Laravel with Tailwind CSS v4.
 - [Tailwind Elements](https://tailwind-elements.com/) – Bootstrap-style components built with Tailwind.
 - [Kometa UI Kit](https://kitwind.io/products/kometa) – Responsive blocks and components for marketing websites.
 
